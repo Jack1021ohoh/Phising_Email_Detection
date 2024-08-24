@@ -3,7 +3,9 @@
 
 ---
 ### Description
-This is the final project for the Socail Media Analysis course. We used python programming language to analyze and predict whether an email is a phishing attempt. First, we performed POS and NER analysis to oberserve characteristics of phising emails. In addition, we used three topic models, LDA, Guided LDA, and BERTOPIC, to find out the common topics of phising emails. Next, we used the LLM gemma to analyze the sentiment through Langchain. After completing various data explorations, we used embedding techniques for Random Forest modeling as well as tried fine tune RoBERTa to determine whether the emails were phishing emails or not. Moreover, we utilize Shapley Values to find out why an email is determined to be a phising email.
+This project, developed for the Social Media Analysis course, focuses on detecting phishing attempts in emails using Python. Our approach began with Part-of-Speech (POS) tagging and Named Entity Recognition (NER) to identify linguistic patterns characteristic of phishing emails. We then applied three topic modeling techniques—LDA, Guided LDA, and BERTopic—to uncover common themes in these emails.
+
+For sentiment analysis, we employed the LLM Gemma via Langchain to assess the emotional tone of the emails. Following extensive data exploration, we used embedding techniques to train a Random Forest model and fine-tuned a RoBERTa model to classify emails as either phishing or legitimate. To enhance the interpretability of our models, we utilized Shapley Values to understand the key features that led to an email being classified as phishing.
 
 ---
 ### Built With
