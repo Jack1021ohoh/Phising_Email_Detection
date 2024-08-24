@@ -14,7 +14,7 @@ This is the final project for the Socail Media Analysis course. We used python p
 - Scikit-learn
 - Langchain
 - NLTK
-- matplotlib
+- Matplotlib
 - Seaborn
 
 ---
