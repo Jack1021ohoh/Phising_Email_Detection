@@ -18,6 +18,7 @@ For sentiment analysis, we employed the LLM Gemma via Langchain to assess the em
 - NLTK
 - Matplotlib
 - Seaborn
+- SHAP
 
 ---
 ### Data Source
