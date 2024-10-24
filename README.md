@@ -1,5 +1,5 @@
 # Social Media Analysis Final Project
-## Phising Email Analysis & Detection
+## Phishing Email Analysis & Detection
 
 ---
 ### Description
